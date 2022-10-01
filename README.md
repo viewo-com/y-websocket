@@ -1,3 +1,11 @@
+# Viewo Editor Backend
+
+Deploy:
+
+```sh
+cd ./bin
+gcloud app deploy --project=viewo-test-sunny editor-backend.yaml
+```
 
 # y-websocket :tophat:
 > WebSocket Provider for Yjs
